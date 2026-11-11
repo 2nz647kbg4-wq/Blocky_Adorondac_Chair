@@ -30,8 +30,8 @@
   "allAtoms": [
     {
       "atomType": "Export",
-      "x": 0.9398,
-      "y": 0.2617,
+      "x": 0.9254,
+      "y": 0.4369,
       "uniqueID": "id-11063",
       "ioValues": [
         {
@@ -63,9 +63,78 @@
       "partName": "Blocky_Adorondac_Chair"
     },
     {
+      "atomType": "Gcode",
+      "x": 0.9242,
+      "y": 0.0771,
+      "uniqueID": "id-11770",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "Tool Size",
+          "ioValue": 6.35
+        },
+        {
+          "name": "Passes",
+          "ioValue": 1
+        },
+        {
+          "name": "Speed",
+          "ioValue": 1500
+        },
+        {
+          "name": "Cut Through",
+          "ioValue": 0
+        },
+        {
+          "name": "Part Name",
+          "ioValue": "Blocky_Adorondac_Chair",
+          "currentEquation": "Blocky_Adorondac_Chair"
+        }
+      ],
+      "partName": "Blocky_Adorondac_Chair",
+      "sortDirection": "Left"
+    },
+    {
+      "atomType": "Export",
+      "x": 1.0176,
+      "y": 0.4322,
+      "uniqueID": "id-11777",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "File Type",
+          "ioValue": "STEP",
+          "currentEquation": "STEP"
+        },
+        {
+          "name": "Resolution (dpi)",
+          "ioValue": 96
+        },
+        {
+          "name": "STL Tolerance",
+          "ioValue": 0.05
+        },
+        {
+          "name": "Part Name",
+          "ioValue": "Blocky_Adorondac_Chair",
+          "currentEquation": "Blocky_Adorondac_Chair"
+        }
+      ],
+      "type": null,
+      "resolution": 96,
+      "importIndex": 0,
+      "partName": "Blocky_Adorondac_Chair"
+    },
+    {
       "atomType": "Output",
-      "x": 0.893,
-      "y": 0.3668,
+      "x": 0.9277,
+      "y": 0.1098,
       "uniqueID": "id-8293",
       "ioValues": [
         {
