@@ -29,6 +29,40 @@
   "topLevel": true,
   "allAtoms": [
     {
+      "atomType": "Export",
+      "x": 0.157,
+      "y": 0.7921,
+      "uniqueID": "id-11063",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "File Type",
+          "ioValue": "SVG",
+          "currentEquation": "SVG"
+        },
+        {
+          "name": "Resolution (dpi)",
+          "ioValue": 96
+        },
+        {
+          "name": "STL Tolerance",
+          "ioValue": 0.05
+        },
+        {
+          "name": "Part Name",
+          "ioValue": "Blocky_Adorondac_Chair",
+          "currentEquation": "Blocky_Adorondac_Chair"
+        }
+      ],
+      "type": "SVG",
+      "resolution": 96,
+      "importIndex": 0,
+      "partName": "Blocky_Adorondac_Chair"
+    },
+    {
       "atomType": "Output",
       "x": 1,
       "y": 0.5,
