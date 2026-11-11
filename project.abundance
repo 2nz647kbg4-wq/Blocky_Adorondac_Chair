@@ -98,140 +98,14 @@
         {
           "name": "Orientations",
           "ioValue": 12
+        },
+        {
+          "name": "Search Time (minutes)",
+          "ioValue": 2
         }
       ],
-      "placements": [
-        [
-          {
-            "id": 10,
-            "rotate": 60,
-            "translate": {
-              "x": -143.18218994140625,
-              "y": -1843.632568359375
-            }
-          },
-          {
-            "id": 1,
-            "rotate": 90,
-            "translate": {
-              "x": 777.7100219726562,
-              "y": 50.55999755859375
-            }
-          },
-          {
-            "id": 7,
-            "rotate": 270,
-            "translate": {
-              "x": 3.369999885559082,
-              "y": 1804.969970703125
-            }
-          },
-          {
-            "id": 14,
-            "rotate": 0,
-            "translate": {
-              "x": -2165.240234375,
-              "y": 121.05999755859375
-            }
-          },
-          {
-            "id": 13,
-            "rotate": 90,
-            "translate": {
-              "x": 653.3699951171875,
-              "y": -2079.590087890625
-            }
-          },
-          {
-            "id": 15,
-            "rotate": 90,
-            "translate": {
-              "x": 571.4599609375,
-              "y": -2327.340087890625
-            }
-          },
-          {
-            "id": 11,
-            "rotate": 120,
-            "translate": {
-              "x": 2060.5263671875,
-              "y": -775.8780517578125
-            }
-          },
-          {
-            "id": 0,
-            "rotate": 180,
-            "translate": {
-              "x": 1183.7100830078125,
-              "y": 817.300048828125
-            }
-          },
-          {
-            "id": 2,
-            "rotate": 0,
-            "translate": {
-              "x": 908.469970703125,
-              "y": 3.369999885559082
-            }
-          },
-          {
-            "id": 8,
-            "rotate": 180,
-            "translate": {
-              "x": 3036.419921875,
-              "y": 506.219970703125
-            }
-          },
-          {
-            "id": 4,
-            "rotate": 270,
-            "translate": {
-              "x": 558.3900146484375,
-              "y": 1538.419921875
-            }
-          },
-          {
-            "id": 6,
-            "rotate": 270,
-            "translate": {
-              "x": 865.1300048828125,
-              "y": 2009.219970703125
-            }
-          },
-          {
-            "id": 3,
-            "rotate": 180,
-            "translate": {
-              "x": 1169.06005859375,
-              "y": 920.5499877929688
-            }
-          },
-          {
-            "id": 9,
-            "rotate": 0,
-            "translate": {
-              "x": -348.3299560546875,
-              "y": 512.9500122070312
-            }
-          },
-          {
-            "id": 12,
-            "rotate": 0,
-            "translate": {
-              "x": -1104.580078125,
-              "y": 512.9500122070312
-            }
-          },
-          {
-            "id": 5,
-            "rotate": 120,
-            "translate": {
-              "x": 1903.4530029296875,
-              "y": 570.5692749023438
-            }
-          }
-        ]
-      ]
+      "placements": [],
+      "placementsVersion": 2
     },
     {
       "atomType": "Readme",
@@ -250,8 +124,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0,
-      "y": 0.2,
+      "x": 0.0254,
+      "y": 0.1538,
       "uniqueID": "id-8422",
       "name": "Thickness",
       "type": "number",
@@ -259,8 +133,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0,
-      "y": 0.2,
+      "x": 0.0254,
+      "y": 0.2462,
       "uniqueID": "id-8425",
       "name": "Seat_Width",
       "type": "number",
@@ -268,8 +142,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0,
-      "y": 0.3,
+      "x": 0.0254,
+      "y": 0.3385,
       "uniqueID": "id-8428",
       "name": "Back_Angle",
       "type": "number",
@@ -277,8 +151,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0,
-      "y": 0.4,
+      "x": 0.0254,
+      "y": 0.4308,
       "uniqueID": "id-8431",
       "name": "Arm_Height",
       "type": "number",
@@ -286,8 +160,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0,
-      "y": 0.5,
+      "x": 0.0254,
+      "y": 0.5231,
       "uniqueID": "id-8434",
       "name": "Leg Sweep",
       "type": "number",
@@ -682,8 +556,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-8670",
               "name": "Thickness",
               "type": "number",
@@ -691,8 +565,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-8673",
               "name": "SeatWidth",
               "type": "number",
@@ -896,8 +770,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.1538,
           "uniqueID": "id-8711",
           "name": "Thickness",
           "type": "number",
@@ -905,8 +779,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.2462,
           "uniqueID": "id-8714",
           "name": "SeatWidth",
           "type": "number",
@@ -1017,8 +891,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-8727",
               "name": "Thickness",
               "type": "number",
@@ -1026,8 +900,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-8730",
               "name": "SeatWidth",
               "type": "number",
@@ -1252,8 +1126,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-8760",
               "name": "Thickness",
               "type": "number",
@@ -1261,8 +1135,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-8763",
               "name": "SeatWidth",
               "type": "number",
@@ -1579,8 +1453,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.1538,
           "uniqueID": "id-8810",
           "name": "Thickness",
           "type": "number",
@@ -1588,8 +1462,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.2462,
           "uniqueID": "id-8813",
           "name": "SeatWidth",
           "type": "number",
@@ -1627,8 +1501,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-8820",
               "name": "Thickness",
               "type": "number",
@@ -1636,8 +1510,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-8823",
               "name": "SeatWidth",
               "type": "number",
@@ -1923,8 +1797,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.1538,
           "uniqueID": "id-8871",
           "name": "Thickness",
           "type": "number",
@@ -1932,8 +1806,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.2462,
           "uniqueID": "id-8874",
           "name": "SeatWidth",
           "type": "number",
@@ -1941,8 +1815,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.3,
+          "x": 0.0254,
+          "y": 0.3385,
           "uniqueID": "id-8877",
           "name": "BackAngle",
           "type": "number",
@@ -1980,8 +1854,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-8884",
               "name": "Thickness",
               "type": "number",
@@ -1989,8 +1863,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-8887",
               "name": "SeatWidth",
               "type": "number",
@@ -2154,8 +2028,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-8917",
               "name": "Thickness",
               "type": "number",
@@ -2163,8 +2037,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-8920",
               "name": "SeatWidth",
               "type": "number",
@@ -2524,8 +2398,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.1538,
           "uniqueID": "id-8978",
           "name": "Thickness",
           "type": "number",
@@ -2533,8 +2407,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.2462,
           "uniqueID": "id-8981",
           "name": "SeatWidth",
           "type": "number",
@@ -2542,8 +2416,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.3,
+          "x": 0.0254,
+          "y": 0.3385,
           "uniqueID": "id-8984",
           "name": "BackAngle",
           "type": "number",
@@ -2551,8 +2425,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.4,
+          "x": 0.0254,
+          "y": 0.4308,
           "uniqueID": "id-8987",
           "name": "ArmHeight",
           "type": "number",
@@ -2560,8 +2434,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.5,
+          "x": 0.0254,
+          "y": 0.5231,
           "uniqueID": "id-8990",
           "name": "LegSweep",
           "type": "number",
@@ -2607,8 +2481,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-8997",
               "name": "Thickness",
               "type": "number",
@@ -2616,8 +2490,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-9000",
               "name": "SeatWidth",
               "type": "number",
@@ -2625,8 +2499,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.3,
+              "x": 0.0254,
+              "y": 0.3385,
               "uniqueID": "id-9003",
               "name": "ArmHeight",
               "type": "number",
@@ -2634,8 +2508,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.4,
+              "x": 0.0254,
+              "y": 0.4308,
               "uniqueID": "id-9006",
               "name": "LegSweep",
               "type": "number",
@@ -2681,8 +2555,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.2,
+                  "x": 0.0254,
+                  "y": 0.1538,
                   "uniqueID": "id-9013",
                   "name": "Thickness",
                   "type": "number",
@@ -2690,8 +2564,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.2,
+                  "x": 0.0254,
+                  "y": 0.2462,
                   "uniqueID": "id-9016",
                   "name": "SeatWidth",
                   "type": "number",
@@ -2699,8 +2573,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.3,
+                  "x": 0.0254,
+                  "y": 0.3385,
                   "uniqueID": "id-9019",
                   "name": "ArmHeight",
                   "type": "number",
@@ -2708,8 +2582,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.4,
+                  "x": 0.0254,
+                  "y": 0.4308,
                   "uniqueID": "id-9022",
                   "name": "LegSweep",
                   "type": "number",
@@ -2751,8 +2625,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.2,
+                      "x": 0.0254,
+                      "y": 0.1538,
                       "uniqueID": "id-9029",
                       "name": "Thickness",
                       "type": "number",
@@ -2760,8 +2634,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.2,
+                      "x": 0.0254,
+                      "y": 0.2462,
                       "uniqueID": "id-9032",
                       "name": "ArmHeight",
                       "type": "number",
@@ -2769,8 +2643,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.3,
+                      "x": 0.0254,
+                      "y": 0.3385,
                       "uniqueID": "id-9035",
                       "name": "LegSweep",
                       "type": "number",
@@ -3213,8 +3087,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-9194",
               "name": "Thickness",
               "type": "number",
@@ -3222,8 +3096,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-9197",
               "name": "SeatWidth",
               "type": "number",
@@ -3231,8 +3105,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.3,
+              "x": 0.0254,
+              "y": 0.3385,
               "uniqueID": "id-9200",
               "name": "ArmHeight",
               "type": "number",
@@ -3240,8 +3114,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.4,
+              "x": 0.0254,
+              "y": 0.4308,
               "uniqueID": "id-9203",
               "name": "BackAngle",
               "type": "number",
@@ -3388,8 +3262,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-9230",
               "name": "Thickness",
               "type": "number",
@@ -3397,8 +3271,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-9233",
               "name": "SeatWidth",
               "type": "number",
@@ -3406,8 +3280,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.3,
+              "x": 0.0254,
+              "y": 0.3385,
               "uniqueID": "id-9236",
               "name": "ArmHeight",
               "type": "number",
@@ -3415,8 +3289,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.4,
+              "x": 0.0254,
+              "y": 0.4308,
               "uniqueID": "id-9239",
               "name": "BackAngle",
               "type": "number",
@@ -3462,8 +3336,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.2,
+                  "x": 0.0254,
+                  "y": 0.1538,
                   "uniqueID": "id-9246",
                   "name": "Thickness",
                   "type": "number",
@@ -3471,8 +3345,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.2,
+                  "x": 0.0254,
+                  "y": 0.2462,
                   "uniqueID": "id-9249",
                   "name": "SeatWidth",
                   "type": "number",
@@ -3480,8 +3354,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.3,
+                  "x": 0.0254,
+                  "y": 0.3385,
                   "uniqueID": "id-9252",
                   "name": "ArmHeight",
                   "type": "number",
@@ -3489,8 +3363,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.4,
+                  "x": 0.0254,
+                  "y": 0.4308,
                   "uniqueID": "id-9255",
                   "name": "BackAngle",
                   "type": "number",
@@ -3532,8 +3406,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.2,
+                      "x": 0.0254,
+                      "y": 0.1538,
                       "uniqueID": "id-9262",
                       "name": "Thickness",
                       "type": "number",
@@ -3541,8 +3415,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.2,
+                      "x": 0.0254,
+                      "y": 0.2462,
                       "uniqueID": "id-9265",
                       "name": "ArmHeight",
                       "type": "number",
@@ -3550,8 +3424,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.3,
+                      "x": 0.0254,
+                      "y": 0.3385,
                       "uniqueID": "id-9268",
                       "name": "BackAngle",
                       "type": "number",
@@ -3594,24 +3468,24 @@
                         },
                         {
                           "atomType": "Input",
-                          "x": 0,
-                          "y": 0.2,
+                          "x": 0.0254,
+                          "y": 0.1538,
                           "uniqueID": "id-9274",
                           "name": "X_Length",
                           "options": []
                         },
                         {
                           "atomType": "Input",
-                          "x": 0,
-                          "y": 0.2,
+                          "x": 0.0254,
+                          "y": 0.2462,
                           "uniqueID": "id-9275",
                           "name": "Y_Length",
                           "options": []
                         },
                         {
                           "atomType": "Input",
-                          "x": 0,
-                          "y": 0.3,
+                          "x": 0.0254,
+                          "y": 0.3385,
                           "uniqueID": "id-9276",
                           "name": "Radius",
                           "options": []
@@ -4065,8 +3939,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.1538,
               "uniqueID": "id-9337",
               "name": "Thickness",
               "type": "number",
@@ -4074,8 +3948,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.2,
+              "x": 0.0254,
+              "y": 0.2462,
               "uniqueID": "id-9340",
               "name": "SeatWidth",
               "type": "number",
@@ -4083,8 +3957,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.3,
+              "x": 0.0254,
+              "y": 0.3385,
               "uniqueID": "id-9343",
               "name": "ArmHeight",
               "type": "number",
@@ -4092,8 +3966,8 @@
             },
             {
               "atomType": "Input",
-              "x": 0,
-              "y": 0.4,
+              "x": 0.0254,
+              "y": 0.4308,
               "uniqueID": "id-9346",
               "name": "LegSweep",
               "type": "number",
@@ -4139,8 +4013,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.2,
+                  "x": 0.0254,
+                  "y": 0.1538,
                   "uniqueID": "id-9353",
                   "name": "Thickness",
                   "type": "number",
@@ -4148,8 +4022,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.2,
+                  "x": 0.0254,
+                  "y": 0.2462,
                   "uniqueID": "id-9356",
                   "name": "SeatWidth",
                   "type": "number",
@@ -4157,8 +4031,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.3,
+                  "x": 0.0254,
+                  "y": 0.3385,
                   "uniqueID": "id-9359",
                   "name": "ArmHeight",
                   "type": "number",
@@ -4166,8 +4040,8 @@
                 },
                 {
                   "atomType": "Input",
-                  "x": 0,
-                  "y": 0.4,
+                  "x": 0.0254,
+                  "y": 0.4308,
                   "uniqueID": "id-9362",
                   "name": "LegSweep",
                   "type": "number",
@@ -4213,8 +4087,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.2,
+                      "x": 0.0254,
+                      "y": 0.1538,
                       "uniqueID": "id-9369",
                       "name": "Thickness",
                       "type": "number",
@@ -4222,8 +4096,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.2,
+                      "x": 0.0254,
+                      "y": 0.2462,
                       "uniqueID": "id-9372",
                       "name": "SeatWidth",
                       "type": "number",
@@ -4231,8 +4105,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.3,
+                      "x": 0.0254,
+                      "y": 0.3385,
                       "uniqueID": "id-9375",
                       "name": "ArmHeight",
                       "type": "number",
@@ -4240,8 +4114,8 @@
                     },
                     {
                       "atomType": "Input",
-                      "x": 0,
-                      "y": 0.4,
+                      "x": 0.0254,
+                      "y": 0.4308,
                       "uniqueID": "id-9378",
                       "name": "LegSweep",
                       "type": "number",
@@ -4751,8 +4625,8 @@
     },
     {
       "atomType": "ExtractTag",
-      "x": 0.7,
-      "y": 0.6,
+      "x": 0.7027,
+      "y": 0.6098,
       "uniqueID": "id-9465",
       "name": "Extract wood",
       "ioValues": [
@@ -4782,21 +4656,21 @@
       ],
       "orientations": [
         {
-          "downwardFaceIndex": 5,
-          "faceCount": 12,
+          "downwardFaceIndex": 14,
+          "faceCount": 20,
           "faceNormal": [
             0,
-            0,
-            1
+            -1.11022302462516e-16,
+            -1
           ]
         },
         {
-          "downwardFaceIndex": 5,
-          "faceCount": 12,
+          "downwardFaceIndex": 14,
+          "faceCount": 20,
           "faceNormal": [
             0,
-            0,
-            1
+            -1.11022302462516e-16,
+            -1
           ]
         },
         {
@@ -4812,9 +4686,9 @@
           "downwardFaceIndex": 6,
           "faceCount": 8,
           "faceNormal": [
-            -0.9396926207859084,
-            1.1102230246251565e-16,
-            0.3420201433256686
+            -0.9396926207859083,
+            -2.8459740433452503e-16,
+            0.3420201433256689
           ]
         },
         {
@@ -4822,8 +4696,8 @@
           "faceCount": 8,
           "faceNormal": [
             0.9396926207859084,
-            -2.3348698237725105e-16,
-            -0.3420201433256688
+            1.898593190028767e-17,
+            -0.34202014332566866
           ]
         },
         {
@@ -4848,7 +4722,7 @@
           "downwardFaceIndex": 4,
           "faceCount": 6,
           "faceNormal": [
-            -0.3100127688103205,
+            -0.31001276881032047,
             0,
             -0.9507323930394708
           ]
@@ -4857,45 +4731,45 @@
           "downwardFaceIndex": 4,
           "faceCount": 6,
           "faceNormal": [
-            -0.3100127688103205,
+            -0.31001276881032047,
             0,
             -0.9507323930394708
           ]
         },
         {
-          "downwardFaceIndex": 1,
-          "faceCount": 14,
+          "downwardFaceIndex": 3,
+          "faceCount": 18,
           "faceNormal": [
-            -0.9507323930394709,
-            1.1102230246251568e-16,
-            0.31001276881032047
+            -0.950732393039471,
+            0,
+            0.31001276881032
           ]
         },
         {
-          "downwardFaceIndex": 1,
-          "faceCount": 20,
+          "downwardFaceIndex": 4,
+          "faceCount": 24,
           "faceNormal": [
             0,
             -1,
-            1.1102230246251565e-16
+            1.11022302462516e-16
           ]
         },
         {
-          "downwardFaceIndex": 17,
-          "faceCount": 20,
+          "downwardFaceIndex": 3,
+          "faceCount": 24,
           "faceNormal": [
             0,
             1,
-            -1.1102230246251565e-16
+            -1.11022302462516e-16
           ]
         },
         {
           "downwardFaceIndex": 12,
           "faceCount": 14,
           "faceNormal": [
-            -0.9507323930394709,
-            1.1102230246251568e-16,
-            0.31001276881032047
+            -0.950732393039471,
+            0,
+            0.3100127688103204
           ]
         },
         {
@@ -4921,8 +4795,8 @@
           "faceCount": 14,
           "faceNormal": [
             -0.898794046299167,
-            1.1102230246251565e-16,
-            0.4383711467890773
+            -2.2390685594429727e-16,
+            0.4383711467890775
           ]
         }
       ],
@@ -4968,8 +4842,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.1538,
           "uniqueID": "id-9475",
           "name": "ArmHeight",
           "type": "number",
@@ -4977,8 +4851,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
+          "x": 0.0254,
+          "y": 0.2462,
           "uniqueID": "id-9478",
           "name": "Thickness",
           "type": "number",
@@ -4986,8 +4860,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.3,
+          "x": 0.0254,
+          "y": 0.3385,
           "uniqueID": "id-9481",
           "name": "SeatWidth",
           "type": "number",
@@ -4995,8 +4869,8 @@
         },
         {
           "atomType": "Input",
-          "x": 0,
-          "y": 0.4,
+          "x": 0.0254,
+          "y": 0.4308,
           "uniqueID": "id-9484",
           "name": "BackAngle",
           "type": "number",
