@@ -64,8 +64,8 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.9242,
-      "y": 0.0771,
+      "x": 0.9133,
+      "y": 0.1589,
       "uniqueID": "id-11770",
       "ioValues": [
         {
@@ -132,9 +132,58 @@
       "partName": "Blocky_Adorondac_Chair"
     },
     {
+      "atomType": "CutOrient",
+      "x": 0.707,
+      "y": 0.8832,
+      "uniqueID": "id-11783",
+      "name": "Cut Orient",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        }
+      ],
+      "orientations": [],
+      "orientationsForHashed": null
+    },
+    {
+      "atomType": "Export",
+      "x": 0.6484,
+      "y": 0.8084,
+      "uniqueID": "id-11786",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "File Type",
+          "ioValue": "STEP",
+          "currentEquation": "STEP"
+        },
+        {
+          "name": "Resolution (dpi)",
+          "ioValue": 96
+        },
+        {
+          "name": "STL Tolerance",
+          "ioValue": 0.05
+        },
+        {
+          "name": "Part Name",
+          "ioValue": "Blocky_Adorondac_Chair",
+          "currentEquation": "Blocky_Adorondac_Chair"
+        }
+      ],
+      "type": null,
+      "resolution": 96,
+      "importIndex": 0,
+      "partName": "Blocky_Adorondac_Chair"
+    },
+    {
       "atomType": "Output",
-      "x": 0.9277,
-      "y": 0.1098,
+      "x": 0.7105,
+      "y": 0.8318,
       "uniqueID": "id-8293",
       "ioValues": [
         {
@@ -5212,6 +5261,16 @@
     }
   ],
   "allConnectors": [
+    {
+      "ap2Name": "geometry",
+      "ap1ID": "id-11783",
+      "ap2ID": "id-11063"
+    },
+    {
+      "ap2Name": "geometry",
+      "ap1ID": "id-11783",
+      "ap2ID": "id-11786"
+    },
     {
       "ap2Name": "Shape 1",
       "ap1ID": "id-8322",
