@@ -30,8 +30,8 @@
   "allAtoms": [
     {
       "atomType": "Export",
-      "x": 0.157,
-      "y": 0.7921,
+      "x": 0.9398,
+      "y": 0.2617,
       "uniqueID": "id-11063",
       "ioValues": [
         {
@@ -64,8 +64,8 @@
     },
     {
       "atomType": "Output",
-      "x": 1,
-      "y": 0.5,
+      "x": 0.893,
+      "y": 0.3668,
       "uniqueID": "id-8293",
       "ioValues": [
         {
@@ -4678,8 +4678,8 @@
     },
     {
       "atomType": "CutOrient",
-      "x": 0.8,
-      "y": 0.7,
+      "x": 0.7992,
+      "y": 0.7126,
       "uniqueID": "id-9468",
       "name": "Cut Orient",
       "ioValues": [
